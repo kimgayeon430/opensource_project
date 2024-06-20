@@ -19,5 +19,5 @@
 ## 4. Voicephishing Detection
 사용자가 업로드한 음성 파일을 CLOVA Speech Recognition(STT모델)을 사용해 텍스트로 변환<br>
 변환된 텍스트를 탐지 모델에 넣어 보이스피싱 위험도를 도출
-## 5. Send Detection Result to User By Message
+## 5. Send Detection Result to User
 도출된 위험도를 사용자에게 문자로 전송
