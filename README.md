@@ -6,6 +6,10 @@
 2214940 김민서 - 테스트 용 음성 데이터 예시, 오픈소스 코드 및 api 수집 및 오류 디버깅
 # 💡 Prototype
 ![image](https://github.com/kimgayeon430/opensource_project/assets/150680082/78968321-4140-422e-b4fe-c423ee74e1b0)
+![image](https://github.com/kimgayeon430/opensource_project/assets/150680082/b07df2b4-7384-4822-a142-34b7e71ceb65)
+![image](https://github.com/kimgayeon430/opensource_project/assets/150680082/2993ebe1-6a8f-4c82-8bb4-1273563fa615)
+![image](https://github.com/kimgayeon430/opensource_project/assets/150680082/f7449fbb-4094-4151-a9ea-ad5b3eaebcda)
+
 
 # 🚂 Pipeline
 
