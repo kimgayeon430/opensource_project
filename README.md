@@ -23,7 +23,7 @@
 도출된 위험도를 사용자에게 문자로 전송
 <br>
 # 🖥️ 프로그램 수행 방법
-1. webcrawling-voicevishing.py을 anaconda powershall에서 실행 -> 웹크롤링읕 통해 음성 데이터 수집<br>
+1. webcrawling-voicevishing.py을 anaconda powershell에서 실행 -> 웹크롤링읕 통해 음성 데이터 수집<br>
 2. 수집한 음성 데이터를 zip파일 형태로 구글 드라이브에 업로드<br>
 3. voice_phishing_detection.ipynb파일을 코랩에서 실행 (각 단계에서 필요한 디렉토리, 빈 파일 등 드라이브에 생성해줘야함)<br>
 4. 사용자의 휴대폰에서 검사하고 싶은 파을을 드라이브에 업로드 하여 결과를 문자로 받아옴<br>
